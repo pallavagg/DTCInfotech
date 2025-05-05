@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TcGD/S9WgIgLoKAsXsxhCzcD+FQ1iMofSua/WOgLpJc=",
+  "Source": "AspNetCoreServiceBusApi1",
+  "BasePath": "_content/AspNetCoreServiceBusApi1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

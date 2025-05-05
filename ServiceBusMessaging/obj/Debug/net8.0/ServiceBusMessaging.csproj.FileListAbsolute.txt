@@ -1,0 +1,13 @@
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\bin\Debug\net8.0\ServiceBusMessaging.deps.json
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\bin\Debug\net8.0\ServiceBusMessaging.dll
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\bin\Debug\net8.0\ServiceBusMessaging.pdb
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ServiceBusMessaging.csproj.AssemblyReference.cache
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ServiceBusMessaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ServiceBusMessaging.AssemblyInfoInputs.cache
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ServiceBusMessaging.AssemblyInfo.cs
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ServiceBusMessaging.csproj.CoreCompileInputs.cache
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ServiceBusMessaging.sourcelink.json
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ServiceBusMessaging.dll
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\refint\ServiceBusMessaging.dll
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ServiceBusMessaging.pdb
+D:\New folder\AspNetCoreServiceBus\ServiceBusMessaging\obj\Debug\net8.0\ref\ServiceBusMessaging.dll
